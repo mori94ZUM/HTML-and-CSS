@@ -1,0 +1,20 @@
+﻿body {
+    background-color: #333;
+    color: #f4f4f4;
+}
+
+a {
+    color: darksalmon;
+}
+
+.intro {
+    font-size: 24px;
+}
+
+.mars-title {
+    color: #db2525;
+}
+
+.earth-title {
+    color: #32d15d;
+}

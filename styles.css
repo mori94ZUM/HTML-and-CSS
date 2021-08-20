@@ -1,0 +1,13 @@
+﻿body {
+    background: #333;
+    color: white;
+}
+
+header {
+    width: 100px;
+    background: steelblue;
+    margin: 20px;
+    border: 20px solid yellow;
+    padding: 30px;
+}
+
